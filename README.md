@@ -4,23 +4,23 @@ App feito em trio para atividade em aula. Eu cuidei do login e tela inicial, Mar
 
 <div align="center">
   <h3>Tela de login</h3>
-  <img src="Printsapp/1.png">
+  <img src="Printsapp/1.jpg">
 </div>
 <br>
 <div align="center">
   <h3>Tela inicial com vídeo na tv</h3>
-  <img src="Printsapp/2.png">
+  <img src="Printsapp/2.jpg">
 </div>
 <br>
 <div align="center">
   <h3>Parte da amazon</h3>
-  <img src="Printsapp/3.png"><img src="Printsapp/4.png"><img src="Printsapp/5.png"><img src="Printsapp/6.png"><img src="Printsapp/7.png"><img src="Printsapp/8.png"><img src="Printsapp/9.png"><img src="Printsapp/10.png"><img src="Printsapp/11.png"><img src="Printsapp/12.png"><img src="Printsapp/13.png"><img src="Printsapp/14.png"><img src="Printsapp/15.png">
+  <img src="Printsapp/3.jpg"><img src="Printsapp/4.jpg"><img src="Printsapp/5.jpg"><img src="Printsapp/6.jpg"><img src="Printsapp/7.jpg"><img src="Printsapp/8.jpg"><img src="Printsapp/9.jpg"><img src="Printsapp/10.jpg"><img src="Printsapp/11.jpg"><img src="Printsapp/12.jpg"><img src="Printsapp/13.jpg"><img src="Printsapp/14.jpg"><img src="Printsapp/15.jpg">
 </div>
 <br>
 
 <div align="center">
   <h3>Parte da netflix</h3>
-  <img src="Printsapp/16.png"><img src="Printsapp/17.png"><img src="Printsapp/18.png"><img src="Printsapp/19.png"><img src="Printsapp/20.png"><img src="Printsapp/21.png"><img src="Printsapp/22.png"><img src="Printsapp/23.png"><img src="Printsapp/24.png"><img src="Printsapp/25.png"><img src="Printsapp/26.png"><img src="Printsapp/27.png"><img src="Printsapp/28.png">
+  <img src="Printsapp/16.jpg"><img src="Printsapp/17.jpg"><img src="Printsapp/18.jpg"><img src="Printsapp/19.jpg"><img src="Printsapp/20.jpg"><img src="Printsapp/21.jpg"><img src="Printsapp/22.jpg"><img src="Printsapp/23.jpg"><img src="Printsapp/24.jpg"><img src="Printsapp/25.jpg"><img src="Printsapp/26.jpg"><img src="Printsapp/27.jpg"><img src="Printsapp/28.jpg">
 </div>
 <br><br>
 Agora fiquem aí com a mensagem do snack
