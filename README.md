@@ -23,6 +23,9 @@ App feito em trio para atividade em aula. Eu cuidei do login e tela inicial, Mar
   <img src="Printsapp/16.jpg"><img src="Printsapp/17.jpg"><img src="Printsapp/18.jpg"><img src="Printsapp/19.jpg"><img src="Printsapp/20.jpg"><img src="Printsapp/21.jpg"><img src="Printsapp/22.jpg"><img src="Printsapp/23.jpg"><img src="Printsapp/24.jpg"><img src="Printsapp/25.jpg"><img src="Printsapp/26.jpg"><img src="Printsapp/27.jpg"><img src="Printsapp/28.jpg">
 </div>
 <br><br>
+
+o link do app no snack: https://snack.expo.dev/@romulojr/appseriesterror
+<br>
 Agora fiquem aí com a mensagem do snack
 
 # Sample Snack app
